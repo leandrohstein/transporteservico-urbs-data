@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="315" height="315" viewBox="0 0 83.344 83.344">
     <g transform="translate(-7.223 -6.65)">
-        <circle cy="48.321" cx="48.895" style="opacity:1;fill:#fff;fill-opacity:1;stroke:#000;stroke-width:1.31505954;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" r="41.014"/>
+        <circle class="icon_bus_status" cy="48.321" cx="48.895" style="opacity:1;fill:#fff;fill-opacity:1;stroke:#000;stroke-width:1.31505954;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" r="41.014"/>
         <path style="opacity:1;fill:#000;fill-opacity:1;stroke:#000;stroke-width:1.32291663;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="M25.086 36.679h3.341V45.9h-3.341zM69.636 36.679h3.341V45.9h-3.341z" transform="translate(-.137 .671)"/>
         <g style="fill:#141414;fill-opacity:1;stroke:#000;stroke-opacity:.954918">
             <path style="opacity:1;fill:#141414;fill-opacity:1;stroke:#000;stroke-width:14.77811146;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.954918" d="M36.477 38.809h24.817v21.374H36.477z" transform="translate(-.137 .671)"/>
