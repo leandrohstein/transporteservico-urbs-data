@@ -1,0 +1,597 @@
+// 20240227140209
+// https://nominatim.openstreetmap.org/?format=json&polygon_geojson=1&addressdetails=1&q=avenida%20parana%20curitiba
+
+[
+  {
+    "place_id": 5765128,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 258941867,
+    "lat": "-25.4074935",
+    "lon": "-49.2533718",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Cabral, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80035-049, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Cabral",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "80035-049",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.4081988",
+      "-25.4074053",
+      "-49.2540305",
+      "-49.2532895"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2540305,
+          -25.4081988
+        ],
+        [
+          -49.2533718,
+          -25.4074935
+        ],
+        [
+          -49.2532895,
+          -25.4074053
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5799058,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 292460888,
+    "lat": "-25.3812758",
+    "lon": "-49.2291514",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Tingui, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82640-040, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Tingui",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "82640-040",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.3829246",
+      "-25.3804245",
+      "-49.2306622",
+      "-49.2283764"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2306622,
+          -25.3829246
+        ],
+        [
+          -49.2299032,
+          -25.3820958
+        ],
+        [
+          -49.2291514,
+          -25.3812758
+        ],
+        [
+          -49.228752,
+          -25.3808353
+        ],
+        [
+          -49.2283764,
+          -25.3804245
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5846326,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 319788952,
+    "lat": "-25.3930434",
+    "lon": "-49.2399886",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Bacacheri, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82510-350, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Bacacheri",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "82510-350",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.3939503",
+      "-25.3930252",
+      "-49.2408259",
+      "-49.2399718"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2408259,
+          -25.3939503
+        ],
+        [
+          -49.2399886,
+          -25.3930434
+        ],
+        [
+          -49.2399718,
+          -25.3930252
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5850442,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 298932861,
+    "lat": "-25.3763407",
+    "lon": "-49.2246261",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Santa Cândida, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82620-360, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Santa Cândida",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "82620-360",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.3766627",
+      "-25.3755043",
+      "-49.2249135",
+      "-49.2238795"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2249135,
+          -25.3766627
+        ],
+        [
+          -49.2246261,
+          -25.3763407
+        ],
+        [
+          -49.2238795,
+          -25.3755043
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5757921,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 292460619,
+    "lat": "-25.3875522",
+    "lon": "-49.2349187",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Bacacheri, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82510-290, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Bacacheri",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "82510-290",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.3900475",
+      "-25.3847027",
+      "-49.2372225",
+      "-49.2322904"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2372225,
+          -25.3900475
+        ],
+        [
+          -49.2356906,
+          -25.3883883
+        ],
+        [
+          -49.2349187,
+          -25.3875522
+        ],
+        [
+          -49.2333978,
+          -25.3859048
+        ],
+        [
+          -49.2331917,
+          -25.3856816
+        ],
+        [
+          -49.2329899,
+          -25.385463
+        ],
+        [
+          -49.2329138,
+          -25.3853806
+        ],
+        [
+          -49.2323765,
+          -25.3847986
+        ],
+        [
+          -49.2322904,
+          -25.3847027
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5804357,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 231757244,
+    "lat": "-25.3747864",
+    "lon": "-49.223293",
+    "class": "highway",
+    "type": "trunk",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Santa Cândida, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82620-360, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Santa Cândida",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "82620-360",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.3751369",
+      "-25.3742982",
+      "-49.2235205",
+      "-49.2231627"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2235205,
+          -25.3751369
+        ],
+        [
+          -49.2233942,
+          -25.3749707
+        ],
+        [
+          -49.2233406,
+          -25.3748779
+        ],
+        [
+          -49.223293,
+          -25.3747864
+        ],
+        [
+          -49.2232541,
+          -25.374675
+        ],
+        [
+          -49.2232292,
+          -25.3745751
+        ],
+        [
+          -49.2231627,
+          -25.3742982
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5855273,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 398722379,
+    "lat": "-25.3763414",
+    "lon": "-49.2248646",
+    "class": "highway",
+    "type": "primary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Santa Cândida, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82620-360, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Santa Cândida",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "82620-360",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.3766456",
+      "-25.3755034",
+      "-49.2251412",
+      "-49.2241027"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2241027,
+          -25.3755034
+        ],
+        [
+          -49.224336,
+          -25.37576
+        ],
+        [
+          -49.2248646,
+          -25.3763414
+        ],
+        [
+          -49.2251412,
+          -25.3766456
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5718655,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26378720,
+    "lat": "-25.4046024",
+    "lon": "-49.2506879",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Cabral, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80035-060, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Cabral",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "80035-060",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.4061281",
+      "-25.4028688",
+      "-49.2521046",
+      "-49.2490836"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2521046,
+          -25.4061281
+        ],
+        [
+          -49.2512336,
+          -25.4051956
+        ],
+        [
+          -49.2506879,
+          -25.4046024
+        ],
+        [
+          -49.250258,
+          -25.4041343
+        ],
+        [
+          -49.2490836,
+          -25.4028688
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5727841,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 258941875,
+    "lat": "-25.4015415",
+    "lon": "-49.2480924",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Cabral, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82510-300, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Cabral",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "82510-300",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.4027459",
+      "-25.4003833",
+      "-49.2492069",
+      "-49.2470139"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2470139,
+          -25.4003833
+        ],
+        [
+          -49.2473312,
+          -25.4007305
+        ],
+        [
+          -49.2474439,
+          -25.4008493
+        ],
+        [
+          -49.2475295,
+          -25.4009369
+        ],
+        [
+          -49.2480924,
+          -25.4015415
+        ],
+        [
+          -49.2485852,
+          -25.4020767
+        ],
+        [
+          -49.2492069,
+          -25.4027459
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 5799020,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 752852115,
+    "lat": "-25.4091314",
+    "lon": "-49.2548963",
+    "class": "highway",
+    "type": "tertiary",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "Avenida Paraná",
+    "display_name": "Avenida Paraná, Cabral, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80035-130, Brasil",
+    "address": {
+      "road": "Avenida Paraná",
+      "suburb": "Cabral",
+      "city": "Curitiba",
+      "municipality": "Região Geográfica Imediata de Curitiba",
+      "county": "Região Metropolitana de Curitiba",
+      "state_district": "Região Geográfica Intermediária de Curitiba",
+      "state": "Paraná",
+      "ISO3166-2-lvl4": "BR-PR",
+      "region": "Região Sul",
+      "postcode": "80035-130",
+      "country": "Brasil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-25.4091314",
+      "-25.4081988",
+      "-49.2548963",
+      "-49.2540305"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -49.2548963,
+          -25.4091314
+        ],
+        [
+          -49.2540305,
+          -25.4081988
+        ]
+      ]
+    }
+  }
+]
