@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5388"
+   sodipodi:docname="gmp-linha-turismo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5392">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5131"
+       id="linearGradient5133"
+       x1="174.91406"
+       y1="88.800232"
+       x2="183.26167"
+       y2="95.665504"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2216379,0,0,1.2142658,148.22738,54.481543)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5131">
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="0"
+         id="stop5127" />
+      <stop
+         style="stop-color:#333333;stop-opacity:1"
+         offset="1"
+         id="stop5129" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview5390"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="9.2542373"
+     inkscape:cy="12.050847"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5388" />
+  <g
+     id="g5360"
+     transform="matrix(3.0938198,0,0,3.1126033,-458.58886,-169.57943)"
+     style="stroke-width:1.21795">
+    <path
+       id="rect5057"
+       style="fill:url(#linearGradient5133);fill-opacity:1;stroke:none;stroke-width:0.322248;stroke-linecap:square;stroke-dasharray:none"
+       d="m 152.89602,60.406644 -4.09985,1.168386 -0.35793,-4.836539 4.38492,-0.494995 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.193349;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 148.4006,61.576012 4.49874,-1.151514"
+       id="path2514"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="rect2430-6"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.193349;stroke-dasharray:none"
+       d="m 152.91202,60.413238 v -4.060552 l 1.04036,-0.315943 -0.0342,3.868931 -0.99784,0.20847"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#aad400;stroke-width:0.386698;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 148.66438,60.529952 4.59529,-1.617094"
+       id="path2514-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="rect2430"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.193349"
+       d="m 148.325,56.687 2.7031,0.025 0.0291,5.10907 -2.7322,-0.26607 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#808080;stroke:#000000;stroke-width:0.193349;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 148.325,56.687 c 0,0 -0.0871,-1.5633 2.358,-1.824261 1.66058,-0.177226 4.92899,0.897559 4.92899,0.897559 L 151.083,56.712 Z"
+       id="path2511"
+       sodipodi:nodetypes="csccc" />
+  </g>
+</svg>
