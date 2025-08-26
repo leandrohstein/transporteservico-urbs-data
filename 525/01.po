@@ -1,15 +1,13 @@
-8915
-inicio:1970-01-01 05:10:00
+8939
+inicio:1970-01-01 04:55:00
 fim:1970-01-02 00:10:00
 partidas:102
-hash:2ef53b49ca351c4304de92f09957c947
-parada:BAIRRO SAO FRANCISCO
-faixa:P1
-05:10
+hash:291589c3bde9015bb4d4c99465faa674
 parada:TERMINAL CAPAO RASO
 faixa:I1
 00:10
 faixa:P1
+04:55
 05:24
 05:52
 06:10
@@ -74,7 +72,7 @@ faixa:I1
 00:10
 faixa:P1
 05:10
-05:27
+05:30
 05:44
 06:01
 06:19
