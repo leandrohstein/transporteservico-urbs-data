@@ -1,0 +1,996 @@
+CÓDIGO	LINHAS	CATEGORIA
+001	Circular Centro (horário)	Micro Ônibus
+002	Circular Centro (anti-horário)	Micro Ônibus
+003	Circular Estação	Micro Ônibus
+010	Interbairros I (horário)	Interbairros
+011	Interbairros I (anti-horário)	Interbairros
+020	Interbairros II (horário)	Interbairros
+021	Interbairros II (anti-horário)	Interbairros
+022	Inter II (horário)	Linha Direta
+023	Inter II (anti-horário)	Linha Direta
+024	Portão / Camp. Siqueira	Linha Direta
+024	C. Raso / Camp. Siqueira	Linha Direta
+025	Circular Bairros (horário)	Deficientes
+026	Circular Bairros (anti-horário)	Deficientes
+027	C. Raso / C. Siqueira	Interbairros
+030	Interbairros III	Interbairros
+040	Interbairros IV	Interbairros
+041	Sta. Felicidade / C. Comprido	Interbairros
+042	Boqueirão / Cic	Interbairros
+043	Boqueirão / Sítio Cercado	Interbairros
+044	Reforço Campo Comprido	Interbairros
+050	Interbairros V	Interbairros
+060	Interbairros VI	Interbairros
+105	Tamandaré / Cabral	Linha Direta
+150	C. Música / Vista Alegre	Micro Ônibus
+160	Jd. Mercês / Guanabara	Convencional
+165	Raquel Prado / Puc	Convencional
+166	V.Nori	Convencional
+167	Fredolin Wolf	Convencional
+168	Raposo Tavares	Convencional
+169	Jd. Kosmos	Convencional
+170	Bracatinga	Convencional
+171	Primavera	Convencional
+172	Alferes Poli	Convencional
+175	Bom Retiro / Puc	Convencional
+176	Nilo Peçanha	Micro Ônibus
+180	Taboão / C. Santo	Convencional
+180	Água Verde / Abranches	Convencional
+181	Mateus Leme	Convencional
+182	Abranches	Troncal
+183	Jd. Chaparral	Convencional
+184	V. Suiça	Convencional
+188	M. Pilarzinho / Uberaba	Madrugueiro
+189	Mad. Abranches	Madrugueiro
+194	E. E. Barreirinha	Ensino Especial
+195	E. E. Apae 4	Ensino Especial
+196	E. E. Pilarzinho	Ensino Especial
+197	E. E. Helena Antipoff 3	Ensino Especial
+198	E. E. Boa Vista	Ensino Especial
+199	E. E. Apae 5	Ensino Especial
+201	Cabral / Bom Retiro	Convencional
+202	Boa Vista 	Expresso
+203	Sta. Cândida / Capão Raso	Expresso
+203	Sta. Cândida / Capão Raso	Bi-Articulado
+204	Cabral / Pinheirinho	Linha Direta
+204	Sta. Cândida / Pinheirinho	Linha Direta
+205	Barreirinha	Troncal
+206	Barreirinha / São José	Linha Direta
+207	Cabral / Osório	Troncal
+208	Aeroporto	Linha Direta
+209	Mad. S. Cândida / C. Raso	Madrugueiro
+211	Colina Verde	Alimentador
+212	Solar	Alimentador
+213	São João	Alimentador
+214	Tingui	Alimentador
+215	Cabral / Cachoeira	Alimentador
+216	Cabral / Portão	Alimentador
+217	Cabral / Alto da XV	Alimentador
+218	Tamandaré / Cabral	Alimentador
+219	Reforço Colina	Alimentador
+221	Rio Verde	Alimentador
+222	V. Esperança	Alimentador
+224	Cassiopéia	Alimentador
+225	Boa Vista / Barreirinha	Alimentador
+226	Abaeté	Alimentador
+229	Mad. Penha / Fernando de Noronha	Madrugueiro
+231	Banestado / Califórnia	Alimentador
+232	Aliança	Alimentador
+233	Olaria	Alimentador
+234	B. Alto A	Alimentador
+234	Secretarias	Alimentador
+235	Rocio	Alimentador
+236	São Benedito	Alimentador
+241	Cachoeira	Alimentador
+242	V. Leonice	Alimentador
+243	Sta. Terezinha	Alimentador
+244	Jd. Do Arroio	Alimentador
+252	Juvevê / C. Santo	Convencional
+259	Mad. Norte	Madrugueiro
+260	Marechal Hermes	Convencional
+260	Mal. Hermes / Sta. Efigênia	Convencional
+265	Ahú / Los Angeles	Convencional
+266	Estribo Ahú	Convencional
+267	V. Ipiranga	Convencional
+268	Pq. Barreirinha / São Lourenço	Proparque
+270	Fernando de Noronha	Convencional
+271	Laranjeiras	Convencional
+272	Paineiras	Convencional
+273	Sta. Efigênia	Convencional
+274	Sta. Gema	Convencional
+275	V. Leonice	Convencional
+276	Sta. Terezinha	Convencional
+277	Cachoeira	Convencional
+278	São Lourenço / Barreirinha	Proparque
+278	Volta ao Mundo	Turismo
+280	Nossa Sra. de Nazaré	Convencional
+285	Juvevê / Água Verde	Convencional
+289	Mad. Cachoeira	Madrugueiro
+289	Mad. Jd. Graziela	Madrugueiro
+290	Solar	Opcional
+294	E. E. Ecumênica 6	Ensino Especial
+295	E. E. Ecumênica 5	Ensino Especial
+296	E. E. Sta. Cândida	Ensino Especial
+297	E. E. Atuba	Ensino Especial
+298	E. E. Luan Mueller 4	Ensino Especial
+298	E. E. Alcindo Fanaya 3	Ensino Especial
+299	E. E. Ecumênica 4	Ensino Especial
+301	Capão da Imbuia	Expresso
+301	Pinhais / Rui Barbosa	Bi-Articulado
+302	Oficinas	Expresso
+302	Centenário / Rui Barbosa	Bi-Articulado
+303	Centenário	Expresso
+303	Centenário / C. Comprido	Bi-Articulado
+304	Leste / Oeste	Linha Direta
+304	Pinhais / C. Comprido	Linha Direta
+305	Centenário	Linha Direta
+306	C. Imbuia / Centenário	Bi-Articulado
+307	B. Alto / Sta. Felicidade	Linha Direta
+308	Mad. Centenário / Rui Barbosa	Madrugueiro
+309	Mad. Centenário	Madrugueiro
+311	Araguaia	Alimentador
+312	C. Imbuia / Cohab	Alimentador
+312	C. Imbuia / Pinhais	Alimentador
+313	Avenida Iraí / C. Imbuia	Alimentador
+319	Mad. Leste	Madrugueiro
+321	Trindade	Alimentador
+322	Camargo	Alimentador
+323	Autódromo	Alimentador
+331	Mercúrio	Alimentador
+332	Acrópole	Alimentador
+333	Marumbi	Alimentador
+333	Marumbi / Jd. Itiberê	Alimentador
+334	Agrícola	Alimentador
+335	Centenário / Boqueirão	Alimentador
+336	V. Reno	Alimentador
+337	São José / Pinhais	Alimentador
+338	Centenário / Hauer	Alimentador
+339	Reforço Centenário / Hauer	Alimentador
+340	Detran / B. Alto	Linha Direta
+341	B. Alto / Sta. Cândida	Alimentador
+342	B. Alto / Boa Vista	Alimentador
+343	Paraíso	Alimentador
+344	Copel	Alimentador
+360	Novena	Convencional
+361	Augusto Stresser	Convencional
+362	Hugo Lange	Convencional
+365	Jd. Social / Batel	Convencional
+366	Itupava / Cohab	Convencional
+366	Itupava / Hosp. Militar	Convencional
+370	Rua XV / Barigui	Convencional
+371	Higienópolis	Convencional
+372	Tarumã	Convencional
+373	Alto Tarumã	Convencional
+374	Hugo Lange	Convencional
+375	Sacre Coeur	Convencional
+375	Sagrado Coração	Convencional
+376	Higienópolis	Convencional
+377	Paraíso	Convencional
+378	Tarumã	Convencional
+379	Alto Tarumã	Convencional
+378	Interhospitais	Convencional
+380	Detran / Vic. Machado	Convencional
+385	Cristo Rei	Convencional
+386	Cajuru	Micro Ônibus
+387	Palotinos	Convencional
+389	Mad. Tarumã / Augusta	Madrugueiro
+390	Jd. Social	Opcional
+391	E. E. São Francisco de Assis I	Ensino Especial
+392	E. E. Thomas Edison 4	Ensino Especial
+393	C. Imbuia / Pq. Barigui	Deficientes
+394	E. E. Centrau 1	Ensino Especial
+395	E. E. Luan Mueller 3	Ensino Especial
+395	E. E. V. Oficinas	Ensino Especial
+396	E. E. Apae 6	Ensino Especial
+397	E. E. Cajuru	Ensino Especial
+398	E. E. Capão da Imbuia	Ensino Especial
+399	E. E. Apae 1	Ensino Especial
+460	Jd. Botânico	Convencional
+461	Sta Bárbara	Micro Ônibus
+462	Petrópolis	Convencional
+462	Petrópolis / Ouro Verde	Convencional
+463	Solitude	Convencional
+463	Solitude / Pl. Evaristo	Convencional
+464	A. Munhoz / Jd. Botânico	Micro Ônibus
+465	Erasto Gaertner	Convencional
+466	Estudantes	Convencional
+467	V. Macedo	Convencional
+468	Jd. Centauro	Convencional
+469	Centro Politécnico	Linha Direta
+470	Guabirotuba	Convencional
+471	V. São Paulo	Convencional
+472	Uberaba	Convencional
+473	Puc	Linha Direta
+474	Jd. Itiberê	Convencional
+475	Canal Belém	Convencional
+476	Tuiuti Torres	Convencional
+489	M. Petrópolis / Solitude	Madrugueiro
+494	E. E. Helena Antipoff 5	Ensino Especial
+495	E. E. Pinhais 1	Ensino Especial
+496	E. E. Uberaba	Ensino Especial
+497	E. E. Helena Antipoff 2	Ensino Especial
+498	E. E. Pinhais 2	Ensino Especial
+499	E. E. Helena Antipoff 4	Ensino Especial
+500	Ligeirão Boqueirão	Bi-Articulado
+501	Hauer	Bi-Articulado
+502	Carmo	Expresso
+502	Circular Sul (horário)	Bi-Articulado
+503	Boqueirão	Bi-Articulado
+504	Trabalhador	Expresso
+505	Boqueirão / C. Cívico	Linha Direta
+506	Bairro Novo	Linha Direta
+507	Sítio Cercado (horário)	Linha Direta
+508	Sítio Cercado (anti-horário)	Linha Direta
+509	Mad. Boqueirão	Madrugueiro
+510	Bairro Novo (booster)	Linha Direta
+511	São Francisco	Alimentador
+512	Itamarati	Alimentador
+513	Hauer / Boqueirão	Alimentador
+514	Salgado Filho	Alimentador
+515	Iguape II	Alimentador
+516	C. Belém / Salgado Filho	Alimentador
+519	Mad. S. Francisco / Iguape	Madrugueiro
+520	LD Osternack / S. Cercado	Linha Direta
+521	Nivaldo Braga	Alimentador
+522	Amazonas	Alimentador
+522	Maringá	Alimentador
+523	Iguape I	Alimentador
+531	Sta. Inês	Alimentador
+532	Jd. Paranaense	Alimentador
+533	Érico Veríssimo	Alimentador
+533	E. Veríssimo / Pantanal	Alimentador
+534	Parigot de Souza	Alimentador
+535	Osternack / Boqueirão	Alimentador
+536	Zoológico	Alimentador
+537	Boqueirão / Sitio Cercado	Alimentador
+538	Nova Europa	Alimentador
+539	Reforço Terminal	Alimentador
+540	Boqueirão / Kraft	Alimentador
+541	Bairro Novo "A"	Alimentador
+542	Bairro Novo "B"	Alimentador
+543	S. Cercado / Br 116	Alimentador
+544	Bairro Novo "A" (booster)	Alimentador
+545	Trabalhador	Alimentador
+546	S. Cercado / Boqueirão	Linha Direta
+547	Bairro Novo "C"	Alimentador
+548	Osternack / S. Cercado	Alimentador
+549	Mad. Bairro Novo	Madrugueiro
+550	Pinheirinho / Carlos Gomes	Bi-Articulado
+560	Alferes Poli	Micro Ônibus
+561	Guilermina	Convencional
+565	Xaxim	Convencional
+567	Franc. Derosso / Br 116	Convencional
+568	Reinhard Maack / Zoológico	Proparque
+594	Menonitas	Deficientes
+595	Xaxim	Vizinhança
+596	E. E. Apae 2	Ensino Especial
+597	E. E. Sitio Cercado	Ensino Especial
+598	E. E. Apae 3	Ensino Especial
+599	E. E. Helena Antipoff 1	Ensino Especial
+601	Cic / Tiradentes	Linha Direta
+602	Circular Sul (anti-horário)	Bi-Articulado
+603	Pinheirinho	Bi-Articulado
+604	Booster Pinheirinho	Bi-Articulado
+605	Cic	Linha Direta
+605	Ctba / Faz. Rio Grande	Linha Direta
+606	Ctba / Araucária	Linha Direta
+607	Colombo / Cic	Linha Direta
+608	Mad. Pinheirinho	Madrugueiro
+609	Mad. Cic	Madrugueiro
+610	Pinheirinho / C. Raso	Linha Direta
+610	S. Cercado / C. Raso	Linha Direta
+611	Fazendinha / Portão	Alimentador
+612	Potão /Cic	Alimentador
+613	V. Urano	Alimentador
+614	Portão / Puc	Alimentador
+614	Fazendinha / Puc	Alimentador
+615	Uberlândia	Alimentador
+616	Wenceslau Braz	Alimentador
+616	Portão / Sta Bernadethe / L. Verde	Alimentador
+617	Jd. Ludovica	Alimentador
+618	V. Machado	Alimentador
+619	Sta. Rita / Cic	Alimentador
+620	Sta Cruz	Alimentador
+621	Fanny	Alimentador
+622	Rondon	Alimentador
+623	Parque Industrial	Alimentador
+624	V. São Pedro	Alimentador
+625	Gramados	Alimentador
+626	Denso	Alimentador
+627	Bosch	Alimentador
+628	Carbomafra	Alimentador
+629	Alto Boqueirão	Alimentador
+630	Vitória Régia	Alimentador
+631	Piratini	Alimentador
+631	Piratini / Br 116	Alimentador
+631	Piratini / Br 476	Alimentador
+632	Quartel General	Alimentador
+633	Maria Angélica	Alimentador
+634	Pluma	Alimentador
+635	Londrina	Alimentador
+636	Rio Negro	Alimentador
+637	Sta. Joana	Alimentador
+638	Pinheirinho	Alimentador
+639	Futurama	Alimentador
+640	Palmeira	Alimentador
+641	Luiz Nichele	Alimentador
+642	Ganchinho	Alimentador
+643	Umbará	Alimentador
+644	Pinheirinho / Cic	Alimentador
+645	Pfaff	Alimentador
+646	Pompéia	Alimentador
+647	Cachimba	Alimentador
+648	Coqueiros	Alimentador
+649	Pirineus	Alimentador
+650	Sta. Rita / Pinheirinho	Alimentador
+651	Núcleo Barigui	Alimentador
+652	V. Verde	Alimentador
+653	Sabará	Alimentador
+654	Campo Alegre	Alimentador
+655	Jd. da Ordem	Alimentador
+656	Kamyr	Alimentador
+657	Jd. Esmeralda	Alimentador
+658	Mauá	Alimentador
+658	C. Raso / Caiuá	Alimentador
+659	Cachimba / Olaria	Alimentador
+660	V. Guaíra	Convencional
+661	Lindóia	Convencional
+662	Dom Ático	Convencional
+663	V. Cubas	Convencional
+664	Av. Brasília	Convencional
+665	V. Rex	Convencional
+666	Novo Mundo	Convencional
+667	Terminal Cic	Alimentador
+668	Casa de Custódia	Alimentador
+669	Fco Antonelo	Alimentador
+670	São Jorge	Convencional
+671	Portão	Convencional
+672	Uberlândia	Convencional
+673	Formosa	Convencional
+674	Nossa Sra. da Luz	Convencional
+675	Mad. Bosch / Hauer	Madrugueiro
+676	Mad. Bosch / Alto Boqueirão	Madrugueiro
+677	Zacarias / Bosch	Madrugueiro
+678	Mad. Bosch / Camp. Siqueira	Madrugueiro
+679	Mad. Tatuquara	Madrugueiro
+680	Rurbana	Alimentador
+681	Pompéia / Dalagassa	Alimentador
+681	Dalagassa	Alimentador
+682	Jd. Ludovica / Rio Bonito	Alimentador
+683	Futurama / S. Cercado	Alimentador
+684	Rio Bonito	Alimentador
+685	Rio Bonito / Cic	Alimentador
+686	Mad. Redentor	Alimentador
+687	Mad. Sul	Alimentador
+688	Pinheirinho / Zoológico	Alimentador
+689	Mad. S. Pedro / Rio Negro	Madrugueiro
+690	V. Juliana	Alimentador
+691	E. E. Thomas Edison 3	Ensino Especial
+692	E. E. Thomas Edison 5	Ensino Especial
+693	E. E. Thomas Edison 1	Ensino Especial
+694	E. E. Bairro Novo	Ensino Especial
+695	Portão	Vizinhança
+695	E. E. Alto Boqueirão	Ensino Especial
+696	E. E. Pinheirinho	Ensino Especial
+697	E. E. Ecumênica 1	Ensino Especial
+698	E. E. Nossa Sra. da Luz	Ensino Especial
+699	E. E. Luan Mueller 1	Ensino Especial
+699	E. E. Alcindo Fanaya 1	Ensino Especial
+701	Fazendinha	Troncal
+702	Fazendinha / Tamandaré	Linha Direta
+703	Caiuá	Troncal
+704	Caiuá	Linha Direta
+711	Itatiaia	Alimentador
+712	Jd. Independência	Alimentador
+712	Indepência / Cic	Alimentador
+713	Sta. Amélia	Alimentador
+714	V. Marisa	Alimentador
+715	Caiuá	Alimentador
+716	Frigorífico	Alimentador
+717	Flamboyant	Alimentador
+717	Terminal Portão	Alimentador
+718	Porto Belo	Alimentador
+719	Fazendinha / Caiuá	Alimentador
+719	Fazend / Caiuá / Frigorif	Alimentador
+720	Fazendinha / C. Comprido	Alimentador
+721	Mario Jorge	Alimentador
+731	Frig. / Pq. dos Tropeiros	Alimentador
+732	Caiuá / C. Comprido	Alimentador
+760	Sta. Quitéria	Micro Ônibus
+761	V. Izabel	Micro Ônibus
+762	V. Rosinha	Convencional
+771	Sta Helena	Convencional
+775	Água Verde / Pça. 19	Convencional
+775	Água Verde / Buriti	Convencional
+776	Carmela Dutra	Convencional
+777	V. Velha	Convencional
+778	Cotolengo	Convencional
+779	Vila Velha / Buriti	Convencional
+788	Mad. V. Velha	Madrugueiro
+789	Sta. Helena / V. Velha	Madrugueiro
+789	Mad. Caiuá	Madrugueiro
+795	E. E. Luan Mueller 2	Ensino Especial
+795	E. E. Alcindo Fanaya 2	Ensino Especial
+796	E. E. Sta. Helena	Ensino Especial
+797	E. E. Sta. Quitéria	Ensino Especial
+798	E. E. Ali Bark 2	Ensino Especial
+799	E. E. Ali Bark 1	Ensino Especial
+801	Camp. Siqueira / Batel	Troncal
+802	Mad. Campo Comprido	Madrugueiro
+803	Campo Comprido	Linha Direta
+804	C. Comprido (booster)	Expresso
+805	Ctba. / Campo Largo	Linha Direta
+806	T. C. Largo / T. C. Siqueira	Linha Direta
+809	Mad. Campo Comprido	Madrugueiro
+811	Saturno	Alimentador
+812	Montana	Alimentador
+813	Fac. Espiríta / Tuiuti	Alimentador
+814	Mossunguê	Alimentador
+815	Tuiuti Barigui	Alimentador
+821	Fernão Dias	Alimentador
+822	Gabinneto	Alimentador
+823	Augusta	Alimentador
+824	São José	Alimentador
+824	São José / D. Fina	Alimentador
+825	V. Marqueto	Alimentador
+826	C. Comprido / Bosch	Alimentador
+826	C. Comprido / Cic	Alimentador
+827	Riviera	Alimentador
+828	C. Comprido / C. Raso	Alimentador
+829	Unicenp	Alimentador
+829	Univ. Positivo	Alimentador
+831	Fazendinha / C. Raso	Alimentador
+860	V. Sandra	Convencional
+861	Tramontina	Convencional
+865	Jd. Esplanada	Micro Ônibus
+870	São Braz	Convencional
+875	Bigorrilho	Micro Ônibus
+876	Savóia	Convencional
+876	Savóia / Retiro	Convencional
+877	Tiradentes / Tuiuti Barigui	Convencional
+878	Parque Barigui / Passaúna	Proparque
+889	Mad. São Braz	Convencional
+893	E. E. Thomas Edison 2	Ensino Especial
+894	E. E. 29 de Março 1	Ensino Especial
+895	E. E. Tatuquara	Ensino Especial
+896	E. E. Novo Mundo	Ensino Especial
+897	E. E. Ecumência 2	Ensino Especial
+898	E. E. Ecumênica 3	Ensino Especial
+899	E. E. Cic	Ensino Especial
+901	Sta. Felicidade	Convencional
+902	Sta. Felicidade	Linha Direta
+911	Passaúna	Alimentador
+912	José Culpi	Alimentador
+913	Botiatuvinha	Alimentador
+914	Cerne	Alimentador
+914	Jd. Boa Vista	Alimentador
+915	Ouro Verde / Veneza	Alimentador
+915	Ouro Verde / V. Badia	Alimentador
+916	Pinheiros	Alimentador
+917	Jd. Ipê	Alimentador
+918	Veneza	Alimentador
+919	São João	Alimentador
+920	Botiatuvinha / Veneza	Alimentador
+921	Jd. Pionero	Alimentador
+922	Bom Pastor	Alimentador
+923	Campo Magro	Alimentador
+924	Sta. Felicidade / Sta. Cândida	Alimentador
+960	Alcidez Munhoz	Convencional
+965	São Bernardo	Convencional
+966	Vista Alegre	Convencional
+967	Julio Graf	Convencional
+968	Especial Trombini	Convencional
+970	Ouro Verde	Convencional
+971	Pinheiros	Convencional
+972	Jd. Itália	Troncal
+975	Virgínia	Convencional
+976	Cristina	Convencional
+977	Botiatuvinha	Convencional
+978	José Culpi	Convencional
+978	Turismo	Turismo
+979	Turismo	Turismo
+980	Passaúna	Convencional
+981	Jd. Ipê	Convencional
+989	Mad. Sta. Felicidade	Madrugueiro
+994	E. E. Nabil Tacla 1	Ensino Especial
+995	Sta. Felicidade	Vizinhança
+995	E. E. Lucy Requião 1	Ensino Especial
+996	E. E. Sta. Felicidade	Ensino Especial
+997	E. E. Orleans	Ensino Especial
+998	E. E. Vivian Marçal 1	Ensino Especial
+999	E. E. Vivian Marçal 2	Ensino Especial
+A01	Ctba. / Tamandaré	Troncal
+A02	Tamandaré	Linha Direta
+A05	Mad. Ctba. / Tamandaré	Madrugueiro
+A06	Ctba. / Tamandaré (minérios)	Troncal
+A07	Ctba. / Tamandaré (lamenha)	Troncal
+A11	San Francisco	Alimentador
+A12	Prefeitura	Alimentador
+A13	Jd. Monte Santo	Alimentador
+A14	Jd. Gramados	Alimentador
+A16	Giannini	Alimentador
+A17	São Jorge	Alimentador
+A21	Jd. Paraíso / Tamandaré	Alimentador
+A22	Tanguá / Tamandaré	Alimentador
+A31	Jd. Graziela	Alimentador
+A32	V. Prado	Alimentador
+A71	Ctba. / Jd. Buenos Aires	Metropolitano
+A72	Ctba. / Jd. Paraíso	Metropolitano
+A73	Ctba. / Jd. Marrocos	Metropolitano
+A75	Ctba. / Alm. Tamandaré	Metropolitano
+A77	Ctba. / Tanguá	Metropolitano
+A78	Vtba. / V. Marta	Metropolitano
+B01	Ctba. / Maracanã	Troncal
+B02	Cabral / Maracanã	Linha Direta
+B11	Maracanã / Sta. Cândida	Alimentador
+B12	Maracanã / Cabral	Alimentador
+B13	Jd. das Graças	Alimentador
+B14	Planalto	Alimentador
+B15	Ana Terra	Alimentador
+B15	Ana Terra / Adriane	Alimentador
+B16	Adriane	Alimentador
+B17	Sta. Helena	Alimentador
+B18	Roseira	Alimentador
+B19	Monte Castelo	Alimentador
+B21	Porteira	Alimentador
+B22	Paloma	Alimentador
+B23	Guaraituba	Alimentador
+B24	Colônia Faria	Alimentador
+B25	Maracanã / B. Alto	Alimentador
+B26	Jd. Eucaliptos	Alimentador
+B27	Ribeira / T. Maracanã	Alimentador
+B27	Ribeira / F. Coradin	Alimentador
+B28	V. Maria do Rosário	Alimentador
+B29	Sede / Apdec	Alimentador
+B29	Roça Grande / Apdec	Alimentador
+B31	Direto Cabral	Alimentador
+B32	Maracanã / Sta. Cândida (booster)	Alimentador
+B33	Bocaiúva do Sul	Alimentador
+B34	Guaraituba / Maracanã	Alimentador
+B35	Porteira / Paloma	Alimentador
+B36	Paloma / Guaraituba	Alimentador
+B41	Maracanã / C. Imbuia	Alimentador
+B42	Maracanã / Linha Verde	Alimentador
+B61	Ctba. / Cap. do Atuba	Convencional
+B62	Ctba. / Guaraituba	Convencional
+B63	Ctba. / Porteira - Paloma	Convencional
+B64	Ctba. / Monte Castelo	Convencional
+B69	Mad. Ctba. / São Dimas	Madrugueiro
+B71	Ctba. / Bocaiúva do Sul	Metropolitano
+B72	Ctba. / Colombo (rod. uva)	Metropolitano
+B73	Ctba. / Jd. Osasco	Metropolitano
+B74	Ctba. / Jd. César Augusto	Metropolitano
+B75	Ctba. / Jd. Arapongas	Metropolitano
+B76	Ctba. / São Sebastião	Metropolitano
+B77	Ctba. / Jd. Curitiba	Metropolitano
+B78	Ctba. / Jd. São Gabriel	Metropolitano
+B79	Ctba. / Roça Grande	Metropolitano
+B80	Ctba. / Colombo (cambará)	Metropolitano
+B81	Ctba. / Colombo (guaraci)	Metropolitano
+B82	Ctba. / Jd. Ana Rosa	Metropolitano
+B83	Ctba. / Sta. Tereza	Metropolitano
+B89	Circuito Italiano	Metropolitano
+B89	Mad. Colombo	Madrugueiro
+C01	C. Siqueira / C. Imbuia	Expresso
+C02	Pinhais	Expresso
+C03	Pinhais / Alto da XV	Convencional
+C03	Pinhais / Guadalupe	Convencional
+C04	T. C. Imbuia / T. Pinhais	Expresso
+C05	C. Imbuia / Pinhais (booster)	Linha Direta
+C05	Direto C. Imbuia	Alimentador
+C11	Jd. Holandês	Alimentador
+C12	V. Nova	Alimentador
+C13	Água Clara	Alimentador
+C14	Vargem Grande	Alimentador
+C15	Weissópolis	Alimentador
+C16	Jd. Iraí	Alimentador
+C17	V. Maria Antonieta	Alimentador
+C18	Jd. Tropical	Alimentador
+C19	Pinhais	Alimentador
+C20	Jd. Cláudia	Alimentador
+C21	Graciosa	Alimentador
+C22	Planta Karla	Alimentador
+C23	Emiliano Perneta	Alimentador
+C24	V. Tarumã	Alimentador
+C25	V. Amélia	Alimentador
+C26	Privê	Alimentador
+C27	Joaquina	Alimentador
+C28	Jacob Macanhan	Alimentador
+C29	Conj. Áquila	Alimentador
+C30	V. Grande / V. Tarumã	Alimentador
+C41	B. Alto / Emiliano Perneta	Alimentador
+C42	Pinhais / B. Alto	Alimentador
+C62	Ctba. / V. Amélia	Metropolitano
+C63	Ctba. / Conj. Atuba	Convencional
+C64	Mad. Ctba. / Pinhais	Madrugueiro
+C65	Ctba. / Conj. Áquila	Metropolitano
+C66	Ctba. / V. Zumbi	Convencional
+C67	Ctba. / Conj. Cláudia	Metropolitano
+C68	Ctba. / Planta Karla	Metropolitano
+C69	Ctba. / V. Perneta	Metropolitano
+C72	Ctba. / V. Palmital	Convencional
+C73	Ctba / V. Maria Antonieta	Metropolitano
+D11	Planta Deodoro	Alimentador
+D12	São Cristovão	Alimentador
+D13	Circular Piraquara	Alimentador
+D13	Integrar Piraquara	Alimentador
+D14	Pinhais / Piraquara	Alimentador
+D15	Ilha do Sapo	Alimentador
+D16	Presídio	Alimentador
+D21	Jd. Sta. Mônica	Alimentador
+D22	Guarituba	Alimentador
+D23	V. Macedo	Alimentador
+D31	Jd. Bela Vista	Alimentador
+D61	Ctba. / Piraquara	Troncal
+D62	Ctba. / V. Macedo	Metropolitano
+D63	Ctba. / Jd. Sta. Mônica	Metropolitano
+D64	Ctba. / Guarituba	Metropolitano
+D65	Ctba. / Pres. Piraquara	Metropolitano
+D66	Ctba. / Piraquara (direto)	Metropolitano
+D69	Mad. Ctba. / Piraquara	Madrugueiro
+E01	Ctba / Urano	Troncal
+E02	Ctba. / Apolo	Troncal
+E03	Natal São José	Metropolitano
+E05	Ctba. / São José	Troncal
+E11	T. Boq. / T. Afonso Pena	Alimentador
+E21	T. Boq. / T. Central	Alimentador
+E31	Puc (são josé)	Alimentador
+E61	Ctba. / Aeroporto	Metropolitano
+E62	Ctba. / Pedro Moro	Metropolitano
+E63	Prado Velho / P. Moro	Metropolitano
+E64	Ctba. / Aeroporto (executivo)	Micro Ônibus
+E64	Aeroporto / Centro	Micro Ônibus
+E65	Ctba. / Xingu	Metropolitano
+E66	Ctba. / Independência	Metropolitano
+E67	Ctba. / Braga	Metropolitano
+E68	Ctba. / Quissisana	Metropolitano
+E69	Mad. Ctba. / São José	Madrugueiro
+E70	Ctba. / Puc	Metropolitano
+E71	Ctba. / Jd. Ipê	Metropolitano
+E72	Ctba. / Jd. Izaura	Metropolitano
+E74	Aeroporto / Rodoferroviária	Micro Ônibus
+E75	Ctba. / Jd. Cristal	Metropolitano
+E76	Ctba. / Posto Paris	Metropolitano
+E77	Ctba. / Guatupê	Metropolitano
+E78	Ctba. / Roseira	Metropolitano
+F01	Fazenda / Pinheirinho	Alimentador
+F02	Fazenda / Term. Centro	Alimentador
+F03	Fazenda (direto)	Alimentador
+F04	Faz. / T. Centro (direto)	Alimentador
+F05	Fazenda / Cic	Alimentador
+F09	Mad. Faz. Rio Grande	Madrugueiro
+F11	Fazenda / Audi	Alimentador
+F12	Iguaçu I	Alimentador
+F13	Estados	Alimentador
+F14	Sta. Maria	Alimentador
+F15	Gralha Azul	Alimentador
+F16	Nações I	Alimentador
+F17	Eucaliptos	Alimentador
+F18	Pq. Industrial	Alimentador
+F19	Sta. Terezinha I	Alimentador
+F20	Iguaçu (booster)	Alimentador
+F21	Iguaçu II	Alimentador
+F22	Nações II	Alimentador
+F23	Reforço Nações	Alimentador
+F24	Eucaliptos II	Alimentador
+F25	Jd. Veneza	Alimentador
+F26	Sta. Terezinha II	Alimentador
+F26	STA Terezinha / Ipê	Alimentador
+F27	Eucaliptos III / Pioneiros	Alimentador
+F71	Ctba. / Faz. Rio Grande	Troncal
+F72	Faz. Rio Grande / Mandirituba	Metropolitano
+F73	Faz. Rio Grande / A. Branca	Metropolitano
+G11	Quitandinha / Pinheirinho	Metropolitano
+G12	A. Branca / Faz. Rio Grande	Metropolitano
+G13	Lg. Ferreiras / Pinheirinho	Metropolitano
+G71	Ctba. / Mandirituba	Metropolitano
+G72	Ctba. / Areia Branca	Metropolitano
+G73	Ctba. Camp. das Paulas	Metropolitano
+H01	Ctba. / Araucária	Troncal
+H02	Natal Araucária	Metropolitano
+H11	Araucária / Pinheirinho	Alimentador
+H12	Araucária / Portão	Alimentador
+H13	Angélica / Pinheirinho	Alimentador
+H14	Angélica / C. Raso	Alimentador
+H16	Araucária / Contenda	Alimentador
+H17	Araucária / Catanduvas	Alimentador
+H20	Angélica / C. Raso	Linha Direta
+H21	Angélica / Cic	Alimentador
+I10	Pinhais / São José dos Pinhais	Intercidades
+I11	Colombo / Pinhais	Intercidades
+I20	Colombo / São José	Intercidades
+I21	Agudos do Sul	Intercidades
+I30	C. Largo / Balsa Nova	Intercidades
+I31	Colombo / Ang. Caron	Intercidades
+I32	Aracucária / Campo Largo	Intercidades
+I40	Q. Barras / Piraquara	Intercidades
+I41	Q. Barras / Bocaiúva	Intercidades
+I50	C. Grande do Sul / Q. Barras	Intercidades
+I50	Q. Barras / Jd. Paulista (horário)	Intercidades
+I51	Q. Barras / Jd. Paulista (anti-horário)	Intercidades
+I60	Pinhais / Piraquara	Intercidades
+I70	R. Bco. do Sul / Itaperuçu	Intercidades
+I71	Itaperuçu / Caic	Intercidades
+I80	R. Bco. do Sul / Tamandaré	Intercidades
+I90	T. Cachoeira / T. Maracanã	Intercidades
+I91	Tamandaré / Colombo	Intercidades
+J11	Ferraria	Alimentador
+J12	Rebouças	Alimentador
+J13	Timbotuva (est. velha)	Alimentador
+J14	Timbotuva (est. nova)	Alimentador
+J15	Campo Largo	Alimentador
+J16	Sta. Ângela	Alimentador
+J19	Mad. Ferraria	Alimentador
+J61	Ctba. / C. Largo (direto)	Troncal
+J62	Ctba. / C. Largo	Troncal
+J63	C. Largo / C. Comprido	Metropolitano
+J64	Itaqui	Metropolitano
+J71	C. Largo / Cia. Itambé	Metropolitano
+J73	Itambézinho	Metropolitano
+K11	Itaperuçu / Tamandaré	Alimentador
+K71	Ctba. / Itaperuçu	Metropolitano
+L11	R. Branco / Tamandaré	Alimentador
+L71	Ctba. / R. Bco. do Sul	Metropolitano
+L79	Mad. Emp. Viação Sul	Madrugueiro
+N11	Mandassaia	Alimentador
+N12	Taquari	Alimentador
+N13	Vizinhança	Alimentador
+N13	Jardineira I	Alimentador
+N15	Circular Santa Rosa	Metropolitano
+N16	Circular Campina Grande	Metropolitano
+N17	Circular Cicamp	Metropolitano
+N21	Conj. Nichele	Alimentador
+N21	Jardineira II	Alimentador
+N22	Palmital / Jd. Paulista	Alimentador
+N70	Ctba. / C. Gde Sul (Rápido)	Metropolitano
+N71	Ctba. / C. Grande do Sul	Metropolitano
+N72	Ctba. / Eugênia Maria	Metropolitano
+N73	Ctba. / Timbú	Metropolitano
+N74	Parque Castelo Branco	Alimentador
+N75	Ctba. / Timbu (direto)	Metropolitano
+O11	Distrito Industrial	Alimentador
+O12	Circular Quatro Barras / Britanite	Alimentador
+O21	Parque da Ciência	Alimentador
+O71	Borda do Campo	Alimentador
+O72	Ctba. / Pousada	Metropolitano
+O73	Ctba. / Q. Barras (graciosa)	Troncal
+O74	Ctba. / Q. Barras (br 116)	Troncal
+O75	Britanite	Alimentador
+O76	Ctba. / Q. Barras (rápido)	Metropolitano
+P11	C. Magro / Bateias	Alimentador
+P63	Ctba. / Bateias	Metropolitano
+P64	Ctba. / Cerne	Metropolitano
+P65	Ctba. / Terra Boa	Metropolitano
+P69	Mad. Ctba. / Campo Magro	Madrugueiro
+R71	Ctba. / Contenda	Metropolitano
+T11	Tijucas do Sul / Audi	Metropolitano
+U01	Sede / Maracanã	Metropolitano
+U02	Pq. Embu / Jd. Florença	Metropolitano
+U04	Guaruja	Metropolitano
+U05	Capivari	Metropolitano
+U06	Alunos	Metropolitano
+U08	Colombo Gruta	Metropolitano
+U11	Itajacuru / Sta. Gema	Metropolitano
+X01	Especial Barreirinha / Cabral	Alimentador
+X02	Especial Cabral / Portão	Bi-Articulado
+X03	Especial B. Alto	Linha Direta
+X04	Especial Centenário / C. Siqueira	Bi-Articulado
+X05	Especial Natal	Convencional
+X06	S. José / Boqueirão	Alimentador
+X08	Capão Raso / Portão	Alimentador
+X09	Col. Gabriela	Metropolitano
+X10	Planta Tereza Glaser	Alimentador
+X11	Pinheirinho / C. Raso	Bi-Articulado
+X11	Portão / Pinheirinho	Bi-Articulado
+X11	Sítio Cercado / C. Raso	Bi-Articulado
+X12	Esp. Boqueirão	Bi-Articulado
+X14	Reforço Hauer	Alimentador
+X16	Puc / Rodoferroviária	Linha Direta
+X17	Especial BR476	Alimentador
+X18	Especial Paul Garfunkel	Alimentador
+X19	Especial Hasdrubal Belegard	Alimentador
+X20	Sítio Cercado / Portão	Bi-Articulado
+X21	Reforço Hauer / IFPR	Alimentador
+X22	Reforço Portão	Linha Direta
+Z01	Unibrasil / Tubo Detran	Convencional
+Z02	Uniandrade / Santa Quitéria	Convencional
+Z03	Vicente de Carvalho / C. da Imbuia	Convencional
+		
+LINHAS ANTIGAS - ANO 1985		
+		
+101	Primavera	Convencional
+102	C. Roseira / Raquel Prado	Convencional
+103	C. Roseira / Bom Retiro	Convencional
+104	Abranches	Convencional
+105	Taboão / Campo Santo	Convencional
+106	Marechal Hermes	Convencional
+107	Mateus Leme	Convencional
+108	Vila Nori	Convencional
+109	Nilo Peçanha	Convencional
+110	Raposo Tavares	Convencional
+111	Jardim Kosmos	Convencional
+112	Conj. Tocantins	Convencional
+113	Canal Belém	Convencional
+114	Fredolin Wolf	Convencional
+118	Vila Suiça	Convencional
+119	Jardim Chaparral	Convencional
+151	Uberaba	Convencional
+152	Jardim Centauro	Convencional
+153	Vila Macedo	Convencional
+157	Vila Guaira	Convencional
+158	Vila Parolim	Convencional
+159	Vila Lindóia	Convencional
+160	Dom Ático	Convencional
+161	Vila São Pedro	Convencional
+162	Xaxim	Convencional
+168	Vila Guilermina	Convencional
+169	Guabirotuba	Convencional
+171	Vila São Paulo	Convencional
+172	Alferes Polis	Convencional
+173	Jardim Paranaense	Convencional
+201	Ahú / Los Angeles	Convencional
+202	Estribo Ahú	Convencional
+203	Barreirinha	Convencional
+204	Boa Vista	Convencional
+211	Sta Efigenia	Convencional
+213	Sta Terezinha	Convencional
+214	Fernando de Noronha	Convencional
+215	Conj Laranjeiras	Convencional
+217	Paineiras	Convencional
+218	Vila Leonice	Convencional
+219	Vila Ipiranga	Convencional
+220	Cachoeira	Convencional
+251	Jardim Mercês / Guanabara	Convencional
+252	Juvevê / Campo Santo	Convencional
+255	C. Raso / Kennedy	Convencional
+257	Portão	Convencional
+259	Vila Formosa	Convencional
+260	Vila Izabel	Convencional
+261	Sta Quitéria	Convencional
+262	Agua Verde / Praça 19 de Dezembro	Convencional
+263	Vila São Jorge	Convencional
+264	Nossa Senhora da Luz	Convencional
+265	Carmela Dutra	Convencional
+266	Sta Amelia	Convencional
+267	Sta Helena	Convencional
+268	Av. Brasilia	Convencional
+271	Vila Cubas	Convencional
+275	Jardim Santos Andrade	Convencional
+276	Frigorifico Sta Helena	Convencional
+277	Jardim Independência	Convencional
+278	Fazendinha	Convencional
+279	Vila Velha	Convencional
+280	Vila Rosinha	Convencional
+281	Itatiaia	Convencional
+282	Porto Belo	Convencional
+298	Br 116 / Cic	Convencional
+299	Br 116 / Cic	Convencional
+301	Hugo lange	Convencional
+302	Tarumã / Carlos Gomes	Convencional
+303	Detran / Vicente Machado	Convencional
+304	Rua XV / Barigui	Convencional
+305	Higienópolis	Convencional
+306	Augusto Stresser	Convencional
+307	Alto Tarumã	Convencional
+309	Batel / Jardim Social	Convencional
+310	Novena	Convencional
+311	Sacre Couer	Convencional
+312	Itupava / Hospital Militar	Convencional
+313	Paraiso	Convencional
+352	Los Angeles / Centro Cívico	Convencional
+354	Vila Sandra / Campo Comprido	Convencional
+400	Hospital Erasto Gaertner	Convencional
+402	Cajuru	Convencional
+404	Capanema / Cruzeiro do Sul	Convencional
+405	Linha dos Estudantes / Passeio Público	Convencional
+407	Solitude	Convencional
+410	Cruzeiro do Sul	Convencional
+411	Nossa Senhora de Lourdes	Convencional
+414	Jardim Sta Bárbara	Convencional
+420	Cristo Rei	Convencional
+451	Vista Alegre	Convencional
+453	Cândido Hartmann	Convencional
+454	Bigorrilho	Convencional
+455	Campina do Siqueira	Convencional
+456	Mercês / Alcidez Munhoz	Convencional
+457	Sta Felicidade / Esperança	Convencional
+458	Sta Felicidade / Pinheiros	Convencional
+459	Sta Felicidade / Virginia	Convencional
+460	São Braz	Convencional
+461	Jardim Savóia	Convencional
+463	Vista Alegre / Julio Graff	Convencional
+464	Sta Felicidade / Ipê	Convencional
+465	Sta Felicidade / José Culpi	Convencional
+467	Sta Felicidade / Cristina	Convencional
+469	Sta Felicidade / Itália	Convencional
+470	Três Marias	Convencional
+471	Montana	Convencional
+480	Sta Felicidade / Passaúna	Convencional
+481	Sta Felicidade / Ouro Verde	Convencional
+482	Vila São Bernardo	Convencional
+482	São Bernardo	Convencional
+	Ctba / Aeroporto Afonso Pena (via Av. Torres)	
+	Ctba / Aeroporto Afonso Pena (via Boqueirão)	
+	Ctba / Agua Clara	
+	Ctba / Almirante Tamandare	
+	Ctba / Araucaria (via Br 116)	
+	Ctba / Araucaria (via Estrada Velha)	
+	Ctba / Barigui	
+	Ctba / Bateias	
+	Ctba / Bocaíuva do Sul	
+	Ctba / Borda do Campo	
+	Ctba / Cachoeira São Jorge	
+	Ctba / Campina Grande do Sul	
+	Ctba / Campo Largo (estrada nova)	
+	Ctba / Campo Largo (estrada velha)	
+	Ctba / Campo Magro	
+	Ctba / Capela do Atuba	
+	Ctba / Capivari	
+	Ctba / Cerne	
+	Ctba / Colombo (via boa vista - pr-417)	
+	Ctba / Colombo (via Olaria)	
+	Ctba / Colombo (via Vila Guaraci)	
+	Ctba / Colonia Faria	
+	Ctba / Conceição	
+	Ctba / Conjunto Apolo	
+	Ctba / Conjunto Claudia	
+	Ctba / Contenda	
+	Ctba / Estação de Pinhais	
+	Ctba / Fazenda Rio Grande	
+	Ctba / Ferraria (estrada nova)	
+	Ctba / Ferraria (estrada velha)	
+	Ctba / Guaraituba (via porteira)	
+	Ctba / Itaperussu	
+	Ctba / Itaqui	
+	Ctba / Jardim Ana Rosa	
+	Ctba / Jardim Aquila	
+	Ctba / Jardim Boa Vista	
+	Ctba / Jardim Bonfim	
+	Ctba / Jardim Cesar Augusto	
+	Ctba / Jardim Bom Pastor	
+	Ctba / Jardim das Graças	
+	Ctba / Jardim Gramado	
+	Ctba / Jardim Graziela	
+	Ctba / Jardim Guabirotuba	
+	Ctba / Jardim La Paloma	
+	Ctba / Jardim Monza	
+	Ctba / Jardim Osasco	
+	Ctba / Jardim Paraiso	
+	Ctba / Jardim Ypê	
+	Ctba / Jardim Weissópolis	
+	Ctba / Lavra	
+	Ctba / Mandirituba	
+	Ctba / Mandassaia	
+	Ctba / Maria Antonieta	
+	Ctba / Palmital (via atuba)	
+	Ctba / Parque Castelo Branco	
+	Ctba / Pedro Moro (via boqueirão)	
+	Ctba / Pinhais (via tarumã)	
+	Ctba / Piraquara	
+	Ctba / Posto Paris	
+	Ctba / Pousada Quatro Barras	
+	Ctba/ Quatro Barras (via br 116)	
+	Ctba/ Quatro Barras (via estrada velha)	
+	Ctba/ Quatro Barras (via hospital)	
+	Ctba / Refinaria Araucaria	
+	Ctba / Rio Branco do Sul	
+	Ctba / Rio Pardo	
+	Ctba / Roça Grande	
+	Ctba / Roseira	
+	Ctba / São José dos Pinhais (via av. torres)	
+	Ctba / São José dos Pinhais (via boqueirão)	
+	Ctba / São Sebastião	
+	Ctba / Shopping Center Pinhais	
+	Ctba / Tangua	
+	Ctba / Terminal Urano	
+	Ctba / Tietê	
+	Ctba / Timbu	
+	Ctba / Tranqueira	
+	Ctba / Vargem Grande	
+	Ctba / Vila Amélia	
+	Ctba / Vila Gorski	
+	Ctba / Guaraci (rio Verde)	
+	Ctba / Vila Macedo	
+	Ctba / Vila Perneta	
+	Ctba / Vila Prado	
+	Ctba / Vila Tebas (atuba)	
